@@ -1,0 +1,11 @@
+/fifo/
+/__pycache__/
+*.py~
+*.md~
+*.bat~
+*.example~
+*.html~
+*.css~
+*.js~
+.gitignore~
+/c_server/passwords.py
